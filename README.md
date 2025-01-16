@@ -1,2 +1,2 @@
 # npgo
-networking programming in Go
+network programming in Go
